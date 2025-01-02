@@ -1,5 +1,5 @@
 services:
   render:
-    image: spa-render:latest
+    image: ghcr.io/romnovi/github-runner:latest
     ports:
       - 3000:3000

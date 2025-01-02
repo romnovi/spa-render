@@ -5,8 +5,8 @@
 - chromium
 
 ## Docker
+
 ```shell
-docker build -t spa-render .
 docker compose -f examples/docker-compose.yaml up
 ```
 

@@ -31,5 +31,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/mystdeim/spa-render:latest
+          tags: ghcr.io/romnovi/spa-render:latest
           platforms: linux/arm64, linux/amd64
